@@ -1,0 +1,1 @@
+Este repositório contem os projetos desenvolvidos durante o curso de lógica com JavaScript pela plataforma ALURA
